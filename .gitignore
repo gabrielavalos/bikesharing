@@ -1,0 +1,6 @@
+# ignore original dataset
+201908-citibike-tripdata.csv
+
+#ignore challenge dataset
+Challenge_Data2.csv 
+
